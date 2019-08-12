@@ -4,9 +4,7 @@
 
 # Developer's Web Sites, Portfolio and blogs
 
-Os links aqui estão sem nenhum tipo de ordenação, então o que esta por ultimo não é necessariamente o mais ruim na minha opinião e o que esta primeiro não necessariamente é o melhor, sabendo disso, vamos a lista.
-
-## [avatar](http://criativa.gq)
+O
 
 ## [avatar](http://#)
 
@@ -14,6 +12,6 @@ Os links aqui estão sem nenhum tipo de ordenação, então o que esta por ultim
 
 #Continua...
 
-Estou procurando outros portfolios/blogs e sites pessoais de desenvolvedors... 
+
 
 by...
